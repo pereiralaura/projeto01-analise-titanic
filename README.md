@@ -19,7 +19,7 @@ https://github.com/pereiralaura/projeto01-analise-titanic
 <br>
 
 <p align="center">
-  <img alt="projeto Análise Titanic" src="asset/photo-titanic.jpg" width="100%">
+  <img alt="projeto Análise Titanic" src="data/asset/photo_titanic.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
